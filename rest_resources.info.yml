@@ -1,0 +1,5 @@
+name: Training Rest Resources
+type: module
+description: Module for implementing Custom Rest Services.
+core_version_requirement: ^9 || ^10
+package: Custom
